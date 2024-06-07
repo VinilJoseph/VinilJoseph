@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)
 <h1 align="center">Hi 👋, I'm Vinil Joseph</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
